@@ -1,0 +1,12 @@
+{
+	"name": "takeoffmetric",
+	"url": "https://takeoffmetric.com/",
+	"license": "MIT",
+	"tags": ["construction", "estimating", "constants", "takeoff", "concrete", "lumber", "rebar", "data", "lookup", "cross"],
+	"description": "Read-only lookup of the TakeoffMetric US construction estimating constants (dataset 1.2.0): 148 records with unit, SI conversion, condition and source; 55 values withheld at their publishers' request. Computes nothing.",
+	"version": "0.1.0",
+	"classPath": "src",
+	"releasenote": "First release: port of takeoffmetric-go, dataset 1.2.0 (148 records, 55 withheld); byID, search, all, sources, csv.",
+	"contributors": ["takeoffmetric"],
+	"dependencies": {}
+}
